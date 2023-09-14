@@ -1,3 +1,11 @@
 # Demo_Game_Flappy_Bird
-Personal
-Flappy Bird là một cái tên đứng đầu top download của các trang app trên toàn thế giới trong thời gian gần đây và tác giả của nó là người Việt Nam, Điều làm cho cho Flappy Bird trở lên phổ biến và tràn lan nhanh chóng là do cách chơi game cực khó mà đồ họa thì lại đơn giản lạ thường.
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+-INTRODUCE    
+  Dự án này được khởi công từ kì hè đầu của năm nhất khi tôi học xong môn lập trình hướng đối tượng, với sự kết hợp thư viện OpenGL (hỗ trợ đồ họa) để củng thêm kĩ năng lập trình phần mền nên tôi đã quyết định hướng tới những con game căn bản đó là flappy bird từng đã đứng đầu trong bảng xếp hạng. Đây là quá trình để ôn tập lại những kiến thức mà tôi đã được học trên đại học. 
+  
+- SUMMARY
+  + Ngôn ngữ sử dụng: C++
+  + Kĩ năng áp dụng từ OOP
+  + Được thực hiện từ cá nhân
+  + Sử dụng trình soạn thảo Visual code studio
+  + 
