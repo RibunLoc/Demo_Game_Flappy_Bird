@@ -1,14 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./css/fonts/themify-icons.css">
-    <link rel="stylesheet" href="./css/fonts/fontawesome-free-6.4.2-web/css/all.css">
-</head>
-<body>
-    <div>
-      <i class="caret-down fa-solid fa-caret-down"></i>
-    </div>
-</body>
-</html>
+# Demo_Game_Flappy_Bird
+
+- GIỚI THIỆU   
+  Dự án này được khởi công từ kì hè đầu của năm nhất khi tôi học xong môn lập trình hướng đối tượng, với sự kết hợp thư viện OpenGL (hỗ trợ đồ họa) để củng thêm kĩ năng lập trình phần mền nên tôi đã quyết định hướng tới những con game căn bản đó là flappy bird từng đã đứng đầu trong bảng xếp hạng. Đây là quá trình để ôn tập lại những kiến thức mà tôi đã được học trên đại học. 
+  
+- TÓM TẮT 
+  + Ngôn ngữ sử dụng: C++
+  + Kĩ năng áp dụng từ OOP
+  + Được thực hiện từ cá nhân
+  + Sử dụng trình soạn thảo Visual code studio
+    
