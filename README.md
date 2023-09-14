@@ -1,6 +1,7 @@
 # Demo_Game_Flappy_Bird
 
-![AppVeyor Build (with branch)](https://img.shields.io/appveyor/build/ribunLoc/Game/master?style=default&logo=bitcoin&logoColor=yellow)
+[![image](https://github.com/RibunLoc/Demo_Game_Flappy_Bird/assets/132435500/653a23bf-f6d6-47a4-8616-05ae13949238)
+](https://www.flaticon.com/free-icon/github_3291695?term=github&page=1&position=1&origin=tag&related_id=3291695)
 
 
 - GIỚI THIỆU   
