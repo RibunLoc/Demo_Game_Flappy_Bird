@@ -8,4 +8,4 @@
   + Kĩ năng áp dụng từ OOP
   + Được thực hiện từ cá nhân
   + Sử dụng trình soạn thảo Visual code studio
-  + 
+    
